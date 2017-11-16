@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pareto</string>
+    <string name="ATask">A - Very important, must be completed</string>
+    <string name="BTask">B - Something that you should do</string>
+    <string name="CTask">C Something that would be nice to do</string>
+    <string name="DTask">D - Something you can delegate to someone else</string>
+    <string name="ETask">E - Something you can eliminate altogether</string>
+    <string name="save">Save</string>
+</resources>
